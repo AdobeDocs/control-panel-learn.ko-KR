@@ -6,10 +6,10 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: d8e46d229f689ce3d2f6dd7bcf52c6c7eefaf4be
+source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 86%
+source-wordcount: '122'
+ht-degree: 81%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 86%
 
 + [Campaign 컨트롤 패널](/help/control-panel-overview.md)
 + [Campaign 컨트롤 패널 시작](/help/get-started-with-control-panel.md)
++ [하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP 관리 {#sftp-management}
    + [서버 용량 모니터링](/help/sftp-management/monitor-server-capacity.md)
    + [IP 허용 목록에 추가하다 범위](/help/sftp-management/allowlist-ip-range.md)
