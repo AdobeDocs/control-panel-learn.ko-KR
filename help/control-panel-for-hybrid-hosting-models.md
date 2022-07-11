@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign 하이브리드 호스팅 모델 Campaign 컨트롤 패널
-description: 하이브리드 호스팅 모델에 대해 Campaign 컨트롤 패널을 활성화하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.
+title: Adobe Campaign 하이브리드 호스팅 모델에 컨트롤 패널 사용하기
+description: 컨트롤 패널을 하이브리드 호스팅 모델에 사용할 수 있도록 설정하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.
 feature: Control Panel
 kt: 10483
 thumbnail: 344502.jpg
@@ -9,18 +9,18 @@ activity: use
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: 12080c860dd3102389e6cbe9a15fa273f0f80ccb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
+source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+workflow-type: ht
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
+# 하이브리드 호스팅 모델에 컨트롤 패널 사용
 
-# 하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널
-
-Adobe Campaign 하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널을 활성화하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.
+컨트롤 패널을 Adobe Campaign 하이브리드 호스팅 모델에 사용할 수 있도록 설정하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html).
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=ko)를 참조하세요.
