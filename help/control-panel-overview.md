@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '290'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -22,15 +22,15 @@ Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자
 
 ## 새로운 기능
 
-* **[하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널](/help/control-panel-for-hybrid-hosting-models.md)**
+* **[하이브리드 호스팅 모델에 컨트롤 패널 사용](/help/control-panel-for-hybrid-hosting-models.md)**
 
-   *Adobe Campaign 하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널을 활성화하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.*
+   *컨트롤 패널을 Adobe Campaign 하이브리드 호스팅 모델에 사용할 수 있도록 설정하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.*
 
 * **[워크플로우 모니터링](/help/performance-monitoring/monitor-workflows.md)**
 
-   *워크플로우의 임시 저장소 사용을 모니터링하는 방법 및 인스턴스의 데이터베이스 또는 워크플로우 문제를 방지하기 위해 워크플로우 설정을 구성하는 위치를 알아봅니다.*
+   *워크플로우의 임시 저장소 사용량을 모니터링하는 방법 및 인스턴스에서 데이터베이스 또는 워크플로우 문제를 방지하기 위해 워크플로우 설정을 구성할 수 있는 위치를 알아봅니다.*
 
-* **[모니터 처리량 및 지연](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
+* **[처리량 및 지연 모니터링](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
 
    *캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.*
 
