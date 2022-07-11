@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 81%
 
 + [Campaign 컨트롤 패널](/help/control-panel-overview.md)
 + [Campaign 컨트롤 패널 시작](/help/get-started-with-control-panel.md)
-+ [하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널](/help/control-panel-for-hybrid-hosting-models.md)
++ [하이브리드 호스팅 모델에 컨트롤 패널 사용](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP 관리 {#sftp-management}
    + [서버 용량 모니터링](/help/sftp-management/monitor-server-capacity.md)
-   + [IP 허용 목록에 추가하다 범위](/help/sftp-management/allowlist-ip-range.md)
+   + [허용 목록에 IP 범위 추가](/help/sftp-management/allowlist-ip-range.md)
    + [SSH 키 생성](/help/sftp-management/generate-ssh-key.md)
    + [SFTP 서버에 연결](/help/sftp-management/connect-to-sftp-server.md)
 + 하위 도메인 및 인증서 {#subdomains-and-certificates}
@@ -30,7 +30,7 @@ ht-degree: 81%
    + [SSL 인증서 추가](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Google TXT 기록 관리](/help/subdomains-and-certificates/google-txt-record-management.md)
 + 인스턴스 설정 {#instance-settings}
-   + [IP 허용 목록에 추가하다 주소](/help/instance-settings/allowlist-ip-adresses.md)
+   + [허용 목록에 IP 주소 추가](/help/instance-settings/allowlist-ip-adresses.md)
    + [URL 권한 추가](/help/instance-settings/add-url-permissions.md)
    + GPG 키 관리 {#gpg-key-management}
       + [GPG 키 관리 - 개요](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
@@ -40,5 +40,5 @@ ht-degree: 81%
 + 성능 모니터링 {#performance-monitoring}
    + [데이터베이스 모니터링](/help/performance-monitoring/monitor-databases.md)
    + [워크플로우 모니터링](/help/performance-monitoring/monitor-workflows.md)
-   + [모니터 처리량 및 지연](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [문제 해결 Campaign 컨트롤 패널](/help/trouble-shooting.md)
+   + [처리량 및 지연 모니터링](/help/performance-monitoring/monitor-throughputs-and-latency.md)
++ [컨트롤 패널 문제 해결](/help/trouble-shooting.md)
