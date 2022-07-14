@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 100%
 
@@ -72,8 +72,8 @@ Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>SFTP 서버에 연결</strong>
-    </a>
+    <strong>SFTP 서버에 연결</strong>
+    </a>
     </div>
     <p>
     <em>Campaign 컨트롤 패널에 저장한 키를 사용하여 클라이언트 SFTP 애플리케이션을 통해 SFTP 서버에 연결하는 방법을 알아봅니다. </em>
