@@ -13,7 +13,7 @@ exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 3d4a302922a59bce1353ec5a68ad4a977a1e3ceb
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 79%
+ht-degree: 86%
 
 ---
 
@@ -35,6 +35,6 @@ Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인�
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
-*하위 도메인 위임(05:07)*
+*하위 도메인 위임(5:7분)*
 
-하위 도메인의 SSL 인증서 갱신에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html).
+하위 도메인의 SSL 인증서 갱신에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ko).
