@@ -3,12 +3,13 @@ user-guide-title: Adobe Campaign 컨트롤 패널 튜토리얼
 user-guide-description: Adobe Campaign 인스턴스의 주요 자산을 모니터링하고 Campaign 컨트롤 패널에서 관리 작업을 수행하는 방법에 대해 알아봅니다.
 breadcrumb-title: Campaign 컨트롤 패널 튜토리얼
 index: true
+feature-set: Campaign
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
+source-git-commit: 647cdf9197bc0420837434f24d475bd4aa065dda
 workflow-type: ht
-source-wordcount: '122'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
