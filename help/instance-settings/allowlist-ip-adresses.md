@@ -1,5 +1,5 @@
 ---
-title: IP 허용 목록에 추가하다 주소
+title: 허용 목록에 IP 주소 추가
 description: Adobe Campaign 인스턴스의 허용 목록에 IP 범위를 추가하는 방법과 컨트롤 패널을 사용하여에서 IP 범위를 제거하는 허용 목록에 추가하다 방법을 알아봅니다.
 feature: Control Panel
 kt: 3479
@@ -13,11 +13,11 @@ exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 59%
+ht-degree: 62%
 
 ---
 
-# IP 허용 목록에 추가하다 주소
+# 허용 목록에 IP 주소 추가
 
 Campaign 컨트롤 패널을 사용하면 IP 주소 범위를 허용 목록에 추가하여 인스턴스에 새 연결을 설정할 수 있습니다. 기본적으로는 여러 IP 주소에서 Adobe Campaign 인스턴스에 액세스할 수 없습니다. 따라서 IP 주소는 허용 목록에추가된으로 해야 합니다.
 

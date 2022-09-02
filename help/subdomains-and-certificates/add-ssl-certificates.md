@@ -13,7 +13,7 @@ exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 38%
+ht-degree: 62%
 
 ---
 
@@ -46,7 +46,7 @@ SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다
 
 >[!NOTE]
 >
->CSR 생성 프로세스에 몇 가지 기능이 개선되었습니다.
+>CSR 생성 프로세스에 몇 가지 개선 사항이 있습니다:
 >
 >* 이제 CSR을 생성할 때 포함된 하위 도메인 중 하나를 공통 이름으로 선택할 수 있습니다.
 >* 이제 CSR을 생성하기 전에 CSR 요약을 복사할 수 있습니다.

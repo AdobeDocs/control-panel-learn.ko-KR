@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 100%
 
@@ -52,7 +52,7 @@ ht-degree: 100%
 ### 유용한 설명서
 
 * [Campaign 컨트롤 패널 살펴보기](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
-* [[!UICONTROL Control Panel]에 대한 권한 관리](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
+* [[!UICONTROL Control Panel]에 대한 권한 관리](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## SFTP 서버에 연결 설정(클라이언트 또는 API)
 
@@ -64,4 +64,4 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 
 ### 유용한 설명서 {#helpful-docs}
 
-* [SFTP 서버에 로그인](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
+* [SFTP 서버에 로그인](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
