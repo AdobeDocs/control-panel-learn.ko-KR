@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
 source-git-commit: 6909a356117e76798fd31ab721ffbd116ea2af68
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 69%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 69%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).
+자세한 내용은 다음을 참조하십시오. [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).

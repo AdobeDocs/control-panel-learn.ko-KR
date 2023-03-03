@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+source-git-commit: 35a8f11609a0634801aa3925eaf14d32858b3c02
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=ko)를 참조하세요.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html)를 참조하세요.

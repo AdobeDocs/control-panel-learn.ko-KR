@@ -13,14 +13,14 @@ level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 서버 용량 모니터링
 
-Campaign 컨트롤 패널에서 SFTP 저장소를 인스턴스별로 모니터링 및 관리할 수 있습니다.
+컨트롤 패널에서 SFTP 저장소를 인스턴스별로 모니터링 및 관리할 수 있습니다.
 
 ## [!UICONTROL Control Panel] 하위 도메인 관리 액세스
 

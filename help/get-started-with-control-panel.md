@@ -1,6 +1,6 @@
 ---
-title: Campaign 컨트롤 패널 시작
-description: Campaign 컨트롤 패널에 액세스하는 방법과 컨트롤 패널에서 사용할 수 있는 사전 요구 사항을 알아봅니다.
+title: 컨트롤 패널 시작
+description: 컨트롤 패널에 액세스하는 방법과 컨트롤 패널에서 사용할 수 있는 사전 요구 사항을 알아봅니다.
 feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
@@ -13,8 +13,8 @@ recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 
 Adobe Campaign 관리자는 [!UICONTROL Control Panel]을 사용하여 주요 자산을 모니터링하고, [!DNL SFTP] 스토리지를 인스턴스별로 관리하거나 [!DNL GPG] 키 또는 [!UICONTROL subdomains] 및 [!UICONTROL certificates]를 관리하는 등 관리 작업을 수행할 수 있습니다.
 
-이 문서에서는 Campaign 컨트롤 패널에 액세스하는 방법과 컨트롤 패널에서 사용할 수 있는 사전 요구 사항을 설명합니다.
+이 문서에서는 컨트롤 패널에 액세스하는 방법과 컨트롤 패널에서 사용할 수 있는 사전 요구 사항을 설명합니다.
 
 ## [!UICONTROL Control Panel]에 액세스 
 
-Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈으로 이동하십시오. [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈으로 이동하십시오. [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -59,4 +59,4 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 
 권한 관리에 대해 [자세히 알아보세요](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=ko#discover-control-panel).
 
-보다 다양한 리소스를 활용하려면 [Campaign 컨트롤 패널 도움말 센터](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)를 참조하세요.
+보다 다양한 리소스를 활용하려면 [컨트롤 패널 도움말 센터](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)를 참조하세요.
