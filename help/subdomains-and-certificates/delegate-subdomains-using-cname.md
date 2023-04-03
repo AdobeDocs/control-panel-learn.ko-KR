@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: f7d5ff24-6181-4212-9c0a-b146a621cc0f
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Adobe Campaign으로 이메일을 보내기 시작하거나 랜딩 페이지를 
 
 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12&learn=0n)

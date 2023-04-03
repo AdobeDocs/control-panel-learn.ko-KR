@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 35a8f11609a0634801aa3925eaf14d32858b3c02
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 89%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 컨트롤 패널을 Adobe Campaign 하이브리드 호스팅 모델에 사용할 수 있도록 설정하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12&learn=0n)
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html)를 참조하세요.
