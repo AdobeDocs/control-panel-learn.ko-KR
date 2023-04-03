@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
+source-wordcount: '100'
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Google 등 일부 서비스의 경우 이메일이 스팸 메일함이 아닌 �
 
 [!UICONTROL Campaign Control Panel]로 [!DNL GMAIL] 주소에 이메일을 보낼 때 사용하는 모든 하위 도메인에 [!UICONTROL Google TXT] 사이트 확인 기록을 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12&learn=0n)
