@@ -23,4 +23,4 @@ ht-degree: 69%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12&learn=0n)
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).
+자세한 내용은 다음을 참조하십시오. [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).

@@ -19,7 +19,7 @@ ht-degree: 82%
 
 # SSH 키 생성
 
-Campaign 컨트롤 패널에 SSH 키를 추가하려면 생성할 수 있어야 합니다.
+Campaign 컨트롤 패널에 추가하려면 SSH 키를 생성할 수 있어야 합니다.
 
 ## 컨트롤 패널 SFTP 관리 액세스
 

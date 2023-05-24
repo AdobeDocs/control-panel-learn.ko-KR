@@ -1,6 +1,6 @@
 ---
 title: SSL 인증서 추가
-description: 하위 도메인 보안을 위해 SSL 인증서를 추가하는 방법을 배웁니다.
+description: 하위 도메인 보안을 위해 SSL 인증서를 추가하는 방법을 알아봅니다.
 feature: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
@@ -54,7 +54,7 @@ SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다
 >
 >![CSR 다운로드](/help/assets/download-csr.gif)
 >
->자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) 추가 정보
+>다음을 참조하십시오. [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) 자세히 알아보십시오.
 
 ### 2. SSL 인증서 구매
 
@@ -62,7 +62,7 @@ CSR을 받은 후에는 조직이 승인한 인증 기관에서 SSL 인증서를
 
 ### 3. SSL 인증서 설치
 
-SSL 인증서를 얻게 되면 보안을 설정할 하위 도메인에 대해 설치해야 합니다.
+SSL 인증서를 얻게 되면 보안을 설정할 하위 도메인에 대해 SSL 인증서를 설치해야 합니다.
 
 아래 비디오에서는 [!UICONTROL Control Panel]에서 SSL 인증서를 설치하는 방법을 설명합니다. 
 
