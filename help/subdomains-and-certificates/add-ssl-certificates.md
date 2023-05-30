@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ SSL 인증서를 추가하려면 다음 3단계를 수행하십시오.
 
 ### 1. 인증서 서명 요청 생성
 
-SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다. 인스턴스 및 보안을 설정할 하위 도메인에 대해 생성되어야 합니다.
+SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다. 인스턴스와 보안을 설정할 하위 도메인에 대해 CSR을 생성해야 합니다.
 
 아래 비디오에서는 컨트롤 패널에서 인증서 서명 요청을 생성하는 방법을 설명합니다.
 
@@ -46,7 +46,7 @@ SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다
 
 >[!NOTE]
 >
->CSR 생성 프로세스에 몇 가지 개선 사항이 있습니다:
+>CSR 생성 프로세스에 몇 가지 개선 사항이 있습니다.
 >
 >* 이제 CSR을 생성할 때 포함된 하위 도메인 중 하나를 공통 이름으로 선택할 수 있습니다.
 >* 이제 CSR을 생성하기 전에 CSR 요약을 복사할 수 있습니다.
@@ -54,15 +54,15 @@ SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다
 >
 >![CSR 다운로드](/help/assets/download-csr.gif)
 >
->다음을 참조하십시오. [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) 자세히 알아보십시오.
+>자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=ko)를 참조하십시오.
 
 ### 2. SSL 인증서 구매
 
-CSR을 받은 후에는 조직이 승인한 인증 기관에서 SSL 인증서를 구매해야 합니다.
+CSR을 획득한 후에는 조직에서 승인한 인증 기관에서 SSL 인증서를 구매해야 합니다.
 
 ### 3. SSL 인증서 설치
 
-SSL 인증서를 얻게 되면 보안을 설정할 하위 도메인에 대해 SSL 인증서를 설치해야 합니다.
+SSL 인증서를 획득한 다음에는 보안을 설정할 하위 도메인에 대해 해당 인증서를 설치해야 합니다.
 
 아래 비디오에서는 [!UICONTROL Control Panel]에서 SSL 인증서를 설치하는 방법을 설명합니다. 
 
