@@ -2,7 +2,7 @@
 title: SSL 인증서 추가
 description: 하위 도메인 보안을 위해 SSL 인증서를 추가하는 방법을 알아봅니다.
 feature: Control Panel
-kt: 4219
+jira: KT-4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인�
 
 * [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** 카드 > **[!UICONTROL Subdomains & Certificates]** 카드
 
-   또는
+  또는
 * 다음 URL에서 직접 액세스: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## SSL 인증서 추가 단계
@@ -55,6 +55,7 @@ SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다
 >![CSR 다운로드](/help/assets/download-csr.gif)
 >
 >자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=ko)를 참조하십시오.
+>
 
 ### 2. SSL 인증서 구매
 
