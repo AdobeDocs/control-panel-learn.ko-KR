@@ -2,7 +2,7 @@
 title: SFTP 서버에 연결
 description: 컨트롤 패널에 저장한 키를 사용하여 클라이언트 SFTP 애플리케이션을 통해 SFTP 서버에 연결하는 방법을 알아봅니다.
 feature: Control Panel
-kt: 2924
+jira: KT-2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **컨트롤 패널** 카드 > **SFTP** 카드
 
-   또는
+  또는
 * 다음 URL에서 직접 액세스: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
 ## SFTP 서버에 연결하는 방법
