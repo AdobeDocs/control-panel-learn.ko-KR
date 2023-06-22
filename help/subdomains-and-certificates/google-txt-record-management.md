@@ -2,7 +2,7 @@
 title: Google TXT 기록 관리
 description: Campaign 컨트롤 패널을 통해 Gmail 주소로 이메일을 보낼 때 사용하는 하위 도메인에 Google TXT 사이트 확인 기록을 추가하는 방법을 알아봅니다.
 feature: Control Panel
-kt: 4744
+jira: KT-4744
 thumbnail: 32369.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
