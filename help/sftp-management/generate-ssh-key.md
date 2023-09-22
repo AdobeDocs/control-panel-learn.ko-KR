@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 82%
+source-wordcount: '124'
+ht-degree: 81%
 
 ---
 
@@ -34,4 +34,4 @@ Campaign 컨트롤 패널에 추가하려면 SSH 키를 생성할 수 있어야 
 
 터미널을 사용하여 SSH 키를 생성하는 방법과 컨트롤 패널에 키의 공개 버전을 저장하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}

@@ -11,10 +11,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 49e2dae4-f583-40c3-b388-5333932f5084
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 43%
+source-wordcount: '97'
+ht-degree: 42%
 
 ---
 
@@ -24,6 +24,6 @@ ht-degree: 43%
 
 을(를) 사용하여 인스턴스의 데이터베이스 사용량을 모니터하는 방법을 알아봅니다. [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
 
 데이터베이스 모니터링에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).
