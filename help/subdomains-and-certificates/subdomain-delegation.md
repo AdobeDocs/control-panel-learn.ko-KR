@@ -12,21 +12,20 @@ level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 98%
+source-wordcount: '109'
+ht-degree: 76%
 
 ---
 
 # 전체 하위 도메인 위임
 
-Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다.
+Adobe Campaign [!UICONTROL Campaign 컨트롤 패널] 을(를) 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다.
 
-## [!UICONTROL Control Panel] 하위 도메인 관리 액세스
+## [!UICONTROL 컨트롤 패널] 하위 도메인 관리 액세스
 
-[!UICONTROL Control Panel]에서 하위 도메인 관리에 액세스하려면 다음 위치로 이동하십시오.
+[!UICONTROL 컨트롤 패널]의 하위 도메인 관리에 액세스하려면 다음 위치로 이동합니다.
 
-* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** 카드 > **하위 도메인 및 인증서** 카드
-또는
+* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL Campaign 컨트롤 패널]** 카드 > **하위 도메인 및 인증서** 카드 또는
 * 다음 URL에서 직접 액세스: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## 하위 도메인을 위임하는 방법

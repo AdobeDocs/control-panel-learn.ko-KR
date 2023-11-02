@@ -13,28 +13,28 @@ recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 98%
+source-wordcount: '222'
+ht-degree: 87%
 
 ---
 
-# [!UICONTROL Control Panel] 시작 {#control-panel}
+# [!UICONTROL  시작컨트롤 패널] {#control-panel}
 
 >[!CAUTION]
 > Campaign v7의 경우 배포 제한이 적용됩니다. [자세히 알아보기](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ko#v7-restrictions)
 
-Adobe Campaign 관리자는 [!UICONTROL Control Panel]을 사용하여 주요 자산을 모니터링하고, [!DNL SFTP] 스토리지를 인스턴스별로 관리하거나 [!DNL GPG] 키 또는 [!UICONTROL subdomains] 및 [!UICONTROL certificates]를 관리하는 등 관리 작업을 수행할 수 있습니다.
+[!UICONTROL Campaign 컨트롤 패널] Adobe Campaign 관리자는 을 사용하여 주요 자산을 모니터링하고 관리 작업(예: [!DNL SFTP] 인스턴스별 스토리지, 관리 [!DNL GPG] 키 또는 [!UICONTROL 하위 도메인] 및 [!UICONTROL 인증서].
 
 이 문서에서는 컨트롤 패널에 액세스하는 방법과 컨트롤 패널에서 사용할 수 있는 사전 요구 사항을 설명합니다.
 
-## [!UICONTROL Control Panel]에 액세스 
+## [!UICONTROL 컨트롤 패널l] 액세스
 
 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈으로 이동하십시오. [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
-* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
+* **[!UICONTROL Experience Cloud 홈]** > **[!UICONTROL 빠른 액세스]**
 
   또는
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]카드**
+* **[!UICONTROL Experience Cloud 홈]** > [!UICONTROL 솔루션 선택기]: **Campaign** > **[!UICONTROL 컨트롤 패널] 카드**
 
   또는
 
@@ -52,7 +52,7 @@ Adobe Campaign 관리자는 [!UICONTROL Control Panel]을 사용하여 주요 �
 
 ### 관리자 권한
 
-[!UICONTROL Control Panel]에 액세스하려면 관리자 권한이 필요합니다 .
+[!UICONTROL 컨트롤 패널]에 액세스하려면 관리자 권한이 필요합니다.
 다음 비디오에서는 Campaign 인스턴스에 관리자를 추가하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
