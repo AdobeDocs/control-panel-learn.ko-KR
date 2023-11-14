@@ -12,9 +12,9 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 87%
 >[!CAUTION]
 > Campaign v7의 경우 배포 제한이 적용됩니다. [자세히 알아보기](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ko#v7-restrictions)
 
-[!UICONTROL Campaign 컨트롤 패널] Adobe Campaign 관리자는 을 사용하여 주요 자산을 모니터링하고 관리 작업(예: [!DNL SFTP] 인스턴스별 스토리지, 관리 [!DNL GPG] 키 또는 [!UICONTROL 하위 도메인] 및 [!UICONTROL 인증서].
+Adobe Campaign 관리자는 [!UICONTROL 컨트롤 패널]을 통해 주요 자산을 모니터링하고 [!DNL SFTP]스토리지를 인스턴스별로 관리하거나, [!DNL GPG]키 또는 [!UICONTROL 하위 도메인] 및 [!UICONTROL 인증서]를 관리하는 등의 관리 작업을 수행할 수 있습니다.
 
 이 문서에서는 컨트롤 패널에 액세스하는 방법과 컨트롤 패널에서 사용할 수 있는 사전 요구 사항을 설명합니다.
 
