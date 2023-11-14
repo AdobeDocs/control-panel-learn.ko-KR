@@ -11,15 +11,15 @@ role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
 # SSH 키 생성
 
-Campaign 컨트롤 패널에 추가하려면 SSH 키를 생성할 수 있어야 합니다.
+[컨트롤 패널]에 SSH 키를 추가하려면 SSH 키를 생성할 수 있어야 합니다.
 
 ## 컨트롤 패널 SFTP 관리 액세스
 
