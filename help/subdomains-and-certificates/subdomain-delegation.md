@@ -11,21 +11,22 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # 전체 하위 도메인 위임
 
-Adobe Campaign [!UICONTROL Campaign 컨트롤 패널] 을(를) 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다.
+Adobe Campaign [!UICONTROL 컨트롤 패널]을 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다.
 
 ## [!UICONTROL 컨트롤 패널] 하위 도메인 관리 액세스
 
 [!UICONTROL 컨트롤 패널]의 하위 도메인 관리에 액세스하려면 다음 위치로 이동합니다.
 
-* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL Campaign 컨트롤 패널]** 카드 > **하위 도메인 및 인증서** 카드 또는
+* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL 컨트롤 패널]** 카드 > **하위 도메인 및 인증서** 카드 
+또는
 * 다음 URL에서 직접 액세스: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## 하위 도메인을 위임하는 방법
@@ -34,6 +35,6 @@ Adobe Campaign [!UICONTROL Campaign 컨트롤 패널] 을(를) 사용하면 하�
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
 
-*하위 도메인 위임(5:7분)*
+*하위 도메인 위임(05:07)*
 
 하위 도메인의 SSL 인증서 갱신에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ko)를 참조하십시오.
