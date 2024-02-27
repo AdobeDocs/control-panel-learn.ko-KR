@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
+source-git-commit: 769e31eccbfd543345fc43a5615fa7dbab134e21
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -20,23 +20,6 @@ ht-degree: 100%
 # 컨트롤 패널 - 개요
 
 Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자산을 모니터링하고 SFTP 저장 공간을 인스턴스별로 관리하거나, GPG 키 또는 하위 도메인 및 인증서를 관리하는 등의 관리 작업을 수행할 수 있습니다.
-
-<div id="whats-new-section">
-
-## 새로운 기능
-
-* **[하이브리드 호스팅 모델에 컨트롤 패널 사용](/help/control-panel-for-hybrid-hosting-models.md)**
-  *컨트롤 패널을 Adobe Campaign 하이브리드 호스팅 모델에 사용할 수 있도록 설정하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.*
-
-* **[워크플로우 모니터링](/help/performance-monitoring/monitor-workflows.md)**
-  *워크플로우의 임시 저장소 사용량을 모니터링하는 방법 및 인스턴스에서 데이터베이스 또는 워크플로우 문제를 방지하기 위해 워크플로우 설정을 구성할 수 있는 위치를 알아봅니다.*
-
-* **[처리량 및 지연 모니터링](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-  *캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.*
-
-최신 제품 릴리스에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ko)를 참조하십시오.
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
