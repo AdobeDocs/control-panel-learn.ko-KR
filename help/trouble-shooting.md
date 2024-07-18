@@ -1,6 +1,6 @@
 ---
 title: 컨트롤 패널 문제 해결
-description: 컨트롤 패널 문제 해결 방법 알아보기.
+description: 컨트롤 패널 문제 해결 방법을 알아봅니다.
 feature: Control Panel
 jira: KT-2938
 doc-type: article
@@ -10,8 +10,8 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '336'
+workflow-type: tm+mt
+source-wordcount: '317'
 ht-degree: 100%
 
 ---

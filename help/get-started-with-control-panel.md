@@ -12,13 +12,13 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '222'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 97%
 
 ---
 
-# [!UICONTROL  시작컨트롤 패널] {#control-panel}
+# [!UICONTROL Campaign 컨트롤 패널] 시작 {#control-panel}
 
 >[!CAUTION]
 > Campaign v7의 경우 배포 제한이 적용됩니다. [자세히 알아보기](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ko#v7-restrictions)
