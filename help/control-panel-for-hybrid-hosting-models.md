@@ -12,8 +12,8 @@ level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?learn=on){transcript=true}
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=ko)를 참조하십시오.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=ko)를 참조하세요.

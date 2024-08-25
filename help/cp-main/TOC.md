@@ -10,8 +10,8 @@ level: Experienced
 auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,6 +41,6 @@ ht-degree: 100%
       + [데이터 암호 해독](/help/instance-settings/gpg-key-management/decrypt-data.md)
 + 성능 모니터링 {#performance-monitoring}
    + [데이터베이스 모니터링](/help/performance-monitoring/monitor-databases.md)
-   + [워크플로우 모니터링](/help/performance-monitoring/monitor-workflows.md)
+   + [워크플로 모니터링](/help/performance-monitoring/monitor-workflows.md)
    + [처리량 및 지연 모니터링](/help/performance-monitoring/monitor-throughputs-and-latency.md)
 + [컨트롤 패널 문제 해결](/help/trouble-shooting.md)
