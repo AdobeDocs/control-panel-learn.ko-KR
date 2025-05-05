@@ -36,6 +36,6 @@ ht-degree: 0%
 
 컨트롤 패널을 사용하여 Adobe Campaign 인스턴스의 허용 목록에 IP 범위를 추가 및 제거하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31699?learn=on&captions=kor){transcript=true}
 
 허용 목록에 IP를 추가하는 방법에 대한 자세한 내용은 [세부 제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=ko)를 참조하십시오.

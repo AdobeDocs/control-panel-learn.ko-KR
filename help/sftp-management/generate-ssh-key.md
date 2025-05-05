@@ -34,4 +34,4 @@ ht-degree: 0%
 
 터미널을 사용하여 SSH 키를 생성하는 방법과 컨트롤 패널에 키의 공개 버전을 저장하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34790?learn=on&captions=kor){transcript=true}

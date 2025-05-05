@@ -40,7 +40,7 @@ SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다
 
 아래 비디오에서는 컨트롤 패널에서 인증서 서명 요청을 생성하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36126?learn=on&captions=kor){transcript=true}
 
 *인증서 서명 요청 생성(02:36)*
 
@@ -67,7 +67,7 @@ SSL 인증서를 획득한 다음에는 보안을 설정할 하위 도메인에 
 
 아래 비디오에서는 [!UICONTROL 컨트롤 패널]에서 SSL 인증서를 설치하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36125?learn=on&captions=kor){transcript=true}
 
 *SSL 인증서 설치(01:25)*
 

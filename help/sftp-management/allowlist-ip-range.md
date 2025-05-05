@@ -24,4 +24,4 @@ ht-degree: 0%
 
 IP 주소 범위를 허용 목록에 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444643?learn=on&captions=kor){transcript=true}

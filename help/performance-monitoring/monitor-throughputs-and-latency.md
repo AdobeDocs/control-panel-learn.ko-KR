@@ -22,7 +22,7 @@ ht-degree: 0%
 
 캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444744/?learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

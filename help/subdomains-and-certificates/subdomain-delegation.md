@@ -34,6 +34,6 @@ Adobe Campaign [!UICONTROL 컨트롤 패널]을 사용하면 하위 도메인을
 
 아래 비디오에서는 하위 도메인을 위임하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430249?learn=on&captions=kor){transcript=true}
 
 하위 도메인의 SSL 인증서 갱신에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ko)를 참조하십시오.

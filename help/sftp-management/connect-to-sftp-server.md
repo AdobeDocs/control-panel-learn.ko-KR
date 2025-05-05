@@ -38,4 +38,4 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 
 이 비디오에서는 컨트롤 패널에 저장한 키를 사용하여 클라이언트 SFTP 애플리케이션을 통해 SFTP 서버에 연결하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34787?learn=on&captions=kor){transcript=true}

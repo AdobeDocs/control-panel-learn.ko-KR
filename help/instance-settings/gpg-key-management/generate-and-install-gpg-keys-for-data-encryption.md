@@ -21,4 +21,4 @@ ht-degree: 0%
 
 컨트롤 패널을 사용하면 Adobe Campaign 인스턴스에서 나오는 데이터를 암호화할 수 있습니다. 아웃바운드 데이터의 암호화를 위해 지정된 [!DNL Campaign] 인스턴스에 공개/개인 키 쌍을 생성하고 설치하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327886?learn=on&captions=kor){transcript=true}

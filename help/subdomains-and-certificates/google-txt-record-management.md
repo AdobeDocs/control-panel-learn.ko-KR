@@ -23,4 +23,4 @@ Google 등 일부 서비스의 경우 이메일이 스팸 메일함이 아닌 �
 
 [!UICONTROL Campaign 컨트롤 패널]을 통해 [!DNL GMAIL] 주소로 이메일을 보내는 데 사용되는 모든 하위 도메인에 [!UICONTROL Google TXT] 사이트 확인 레코드를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36864?learn=on&captions=kor){transcript=true}

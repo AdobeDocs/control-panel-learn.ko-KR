@@ -35,4 +35,4 @@ ht-degree: 0%
 
 SFTP 서버의 스토리지 용량을 모니터링하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329492?learn=on&captions=kor){transcript=true}

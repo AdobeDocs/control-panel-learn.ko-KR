@@ -21,6 +21,6 @@ ht-degree: 0%
 
 [!DNL Adobe Campaign] 인스턴스에서 외부 URL에 연결을 설정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34225?learn=on&captions=kor){transcript=true}
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=ko)를 참조하십시오.

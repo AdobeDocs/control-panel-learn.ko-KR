@@ -23,4 +23,4 @@ Adobe Campaign으로 이메일을 보내기 시작하거나 랜딩 페이지를 
 
 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450131?learn=on&captions=kor){transcript=true}
