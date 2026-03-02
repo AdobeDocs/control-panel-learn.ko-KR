@@ -29,4 +29,4 @@ ht-degree: 71%
 * [처리량 및 지연 모니터링에 대한 Campaign 컨트롤 패널 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=ko#)
 * [OOTB 게재 대시보드](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=ko)
 * [OOTB 액세스 트랜잭션 메시지 보고서(Campaign v7만 해당)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=ko)
-* [게재 모범 사례](https://experienceleague.adobe.com/en/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
+* [게재 모범 사례](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
