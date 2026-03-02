@@ -11,10 +11,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+source-git-commit: ad78c9af231c9b6b1f29122d35fd80edcc7e050c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '115'
+ht-degree: 71%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444744/?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
 
 ## 추가 리소스
 
-* [처리량 및 지연 모니터링을 다루는 컨트롤 패널 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=ko#)
+* [처리량 및 지연 모니터링에 대한 Campaign 컨트롤 패널 설명서](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=ko#)
 * [OOTB 게재 대시보드](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=ko)
 * [OOTB 액세스 트랜잭션 메시지 보고서(Campaign v7만 해당)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=ko)
-* [게재 모범 사례](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=ko)
+* [게재 모범 사례](https://experienceleague.adobe.com/en/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
