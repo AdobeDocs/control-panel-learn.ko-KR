@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '353'
+ht-degree: 100%
 
 ---
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ### 유용한 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/34940?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
-*IMS 조직 ID 확인(00:26)*
+*IMS 조직 ID 확인(00:26분)*
 
->[!VIDEO](https://video.tv.adobe.com/v/34792?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
-*[!UICONTROL 컨트롤 패널]을 사용하기 위해 제품 프로필 관리자에 관리자를 추가하는 방법(01:03)*
+*특정 관리자를 제품 프로필 관리자에 추가하여 [!UICONTROL 컨트롤 패널]을 사용할 수 있게 하는 방법(01:03분)*
 
 ### 유용한 설명서
 
