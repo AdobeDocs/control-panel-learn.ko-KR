@@ -41,11 +41,11 @@ ht-degree: 100%
 
 ### 유용한 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34940?captions=kor&learn=on){transcript=true}
 
 *IMS 조직 ID 확인(00:26분)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34792?captions=kor&learn=on){transcript=true}
 
 *특정 관리자를 제품 프로필 관리자에 추가하여 [!UICONTROL 컨트롤 패널]을 사용할 수 있게 하는 방법(01:03분)*
 
