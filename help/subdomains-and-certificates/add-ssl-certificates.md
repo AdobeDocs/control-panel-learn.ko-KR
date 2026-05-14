@@ -10,9 +10,12 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '288'
+TQID: https://experienceleague.adobe.com/0bt8fHWusGHKrXc-ireqA25Eo75SA2pCj9MhADcHBxA
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 288
 ht-degree: 100%
 
 ---
@@ -40,7 +43,7 @@ SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다
 
 아래 비디오에서는 컨트롤 패널에서 인증서 서명 요청을 생성하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36126?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
 *인증서 서명 요청 생성(02:36분)*
 
@@ -67,7 +70,7 @@ SSL 인증서를 획득한 다음에는 보안을 설정할 하위 도메인에 
 
 아래 비디오에서는 [!UICONTROL 컨트롤 패널]에서 SSL 인증서를 설치하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36125?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
 *SSL 인증서 설치(01:25분)*
 

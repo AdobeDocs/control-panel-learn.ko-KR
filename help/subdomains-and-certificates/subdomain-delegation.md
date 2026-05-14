@@ -5,16 +5,19 @@ feature: Control Panel
 jira: KT-4115
 thumbnail: 31390.jpg
 doc-type: feature video
-last-substantial-update: 2024-03-18T00:00:00Z
+last-substantial-update: 2024-03-18T00:00:00.000Z
 activity: use
 team: PM
 role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
-source-git-commit: b1f8f620ed5f9f5a0ee2165041a036728943fc84
+TQID: https://experienceleague.adobe.com/EZFhA7ru8Gq1AcYpcttLoErV68EPXRKBmxTZ83jYOCM
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 109
+ht-degree: 100%
 
 ---
 
@@ -26,7 +29,7 @@ Adobe Campaign [!UICONTROL 컨트롤 패널]을 사용하면 하위 도메인을
 
 [!UICONTROL 컨트롤 패널]의 하위 도메인 관리에 액세스하려면 다음 위치로 이동합니다.
 
-* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL 컨트롤 패널]** 카드 > **하위 도메인 및 인증서** 카드 
+* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL > 컨트롤 패널]** 카드 > **하위 도메인 및 인증서** 카드
 또는
 * 다음 URL에서 직접 액세스: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
@@ -34,6 +37,6 @@ Adobe Campaign [!UICONTROL 컨트롤 패널]을 사용하면 하위 도메인을
 
 아래 비디오에서는 하위 도메인을 위임하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430249?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
 
 하위 도메인의 SSL 인증서 갱신에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ko)를 참조하십시오.
