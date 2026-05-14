@@ -11,10 +11,15 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: bb07c575-a4db-4485-aae8-7c249c8d183b
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+TQID: https://experienceleague.adobe.com/CI0ZtlRbsNWedE8EYqShSJRXOgWIMl-4bFTFXp8ULbc
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 66
+ht-degree: 100%
 
 ---
 
@@ -24,4 +29,4 @@ ht-degree: 0%
 
 IP 주소 범위를 허용 목록에 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444643?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444643?captions=kor&learn=on){transcript=true}

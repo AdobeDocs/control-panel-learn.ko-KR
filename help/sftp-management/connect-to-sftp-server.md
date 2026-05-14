@@ -10,10 +10,15 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+TQID: https://experienceleague.adobe.com/FbtEDX--d4rHKr4-vgiF0OLqPBn8dAwgKlRnQgyb6Co
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 149
+ht-degree: 100%
 
 ---
 
@@ -38,4 +43,4 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 
 이 비디오에서는 컨트롤 패널에 저장한 키를 사용하여 클라이언트 SFTP 애플리케이션을 통해 SFTP 서버에 연결하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34787?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34787?captions=kor&learn=on){transcript=true}
