@@ -10,14 +10,12 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 353
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -36,23 +34,23 @@ ht-degree: 70%
 사용자는 제품 프로필 _Campaign-xxx-Administrators/Admin_&#x200B;에 사용자로 추가될 때까지 링크를 볼 수 없습니다.
 
 **수행할 작업:**
-관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 _Campaign-xxx-Admins_&#x200B;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 사용자로 추가해야 할 수 있습니다.
+관리자는 관리하려는 각 인스턴스 제품 프로필 _Campaign-xxx-Admins_&#x200B;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 사용자로 추가해야 할 수 있습니다.
 
 ### 증상: 인스턴스가 [!UICONTROL 컨트롤 패널]에 나열되지 않음.
 
 **원인:**
-대부분의 경우 누락된 인스턴스에 대해 사용자를 *사용자* 제품 프로필 _Campaign-xxx-Administrators/Admin_(으)로 추가해야 합니다.
+대부분의 경우 사용자는 누락된 인스턴스에 대해 *사용자*&#x200B;로 제품 프로필 _Campaign-xxx-Administrators/Admin_&#x200B;에 추가되어야 합니다
 
 **수행할 작업:**
-관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 _Campaign-xxx-Admins_&#x200B;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 &quot;사용자&quot;로 추가해야 할 수 있습니다.
+관리자는 관리하려는 각 인스턴스 제품 프로필 _Campaign-xxx-Admins_&#x200B;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 &quot;사용자&quot;로 추가해야 할 수 있습니다.
 
 ### 유용한 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/34940?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 *IMS 조직 ID 확인(00:26분)*
 
->[!VIDEO](https://video.tv.adobe.com/v/34792?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 *특정 관리자를 제품 프로필 관리자에 추가하여 [!UICONTROL 컨트롤 패널]을 사용할 수 있게 하는 방법(01:03분)*
 
