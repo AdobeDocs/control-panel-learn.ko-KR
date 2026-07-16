@@ -17,9 +17,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
-source-wordcount: 229
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: 259
+ht-degree: 100%
 
 ---
 
@@ -46,9 +46,7 @@ Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>하위 도메인을 Adobe Campaign으로 위임(비디오)</strong>
-    </a>
-    </div>
+    <strong>하위 도메인을 Adobe Campaign으로 위임(비디오)</strong></div>
     <p>
     <em>하위 도메인을 Adobe Campaign에 완전히 위임하는 방법을 알아봅니다.</em>
     <p>
@@ -59,9 +57,7 @@ Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXT 레코드 관리(비디오)</strong>
-    </a>
-    </div>
+    <strong>Google TXT 레코드 관리(비디오)</strong></div>
     <p>
     <em> Campaign 컨트롤 패널을 통해 Gmail 주소로 이메일을 보내는 데 사용되는 모든 하위 도메인에 Google TXT 사이트 확인 레코드를 추가하는 방법을 알아봅니다.</em>
     <p>
@@ -72,9 +68,7 @@ Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>SFTP 서버에 연결</strong>
-    </a>
-    </div>
+    <strong>SFTP 서버에 연결</strong></div>
     <p>
     <em>컨트롤 패널에 저장한 키를 사용하여 클라이언트 SFTP 애플리케이션을 통해 SFTP 서버에 연결하는 방법을 알아봅니다. </em>
     <p>
