@@ -11,18 +11,24 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-TQID: https://experienceleague.adobe.com/145PllmtzuWqb96oCDy4wW27SdVSWU8tV4pT3xXUO04
+TQID: 'https://experienceleague.adobe.com/145PllmtzuWqb96oCDy4wW27SdVSWU8tV4pT3xXUO04'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
 workflow-type: tm+mt
-source-wordcount: 228
+source-wordcount: '228'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL 컨트롤 패널] 시작 {#control-panel}
 
 >[!CAUTION]
@@ -53,14 +59,14 @@ Adobe Campaign 관리자는 [!UICONTROL 컨트롤 패널]을 통해 주요 자�
 
 다음 비디오에서는 인스턴스의 [!DNL IMS org ID]를 조회할 수 있는 위치를 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34940?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### 관리자 권한
 
 [!UICONTROL 컨트롤 패널]에 액세스하려면 관리자 권한이 필요합니다.
 다음 비디오에서는 Campaign 인스턴스에 관리자를 추가하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34792?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 권한 관리에 대해 [자세히 알아보세요](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=ko#discover-control-panel).
 
