@@ -59,14 +59,14 @@ Adobe Campaign 관리자는 [!UICONTROL 컨트롤 패널]을 통해 주요 자�
 
 다음 비디오에서는 인스턴스의 [!DNL IMS org ID]를 조회할 수 있는 위치를 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34940?captions=kor&learn=on){transcript=true}
 
 ### 관리자 권한
 
 [!UICONTROL 컨트롤 패널]에 액세스하려면 관리자 권한이 필요합니다.
 다음 비디오에서는 Campaign 인스턴스에 관리자를 추가하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34792?captions=kor&learn=on){transcript=true}
 
 권한 관리에 대해 [자세히 알아보세요](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=ko#discover-control-panel).
 
