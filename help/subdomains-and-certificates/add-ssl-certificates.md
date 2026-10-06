@@ -10,18 +10,24 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-TQID: https://experienceleague.adobe.com/0bt8fHWusGHKrXc-ireqA25Eo75SA2pCj9MhADcHBxA
+TQID: 'https://experienceleague.adobe.com/0bt8fHWusGHKrXc-ireqA25Eo75SA2pCj9MhADcHBxA'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
 workflow-type: tm+mt
-source-wordcount: 288
-ht-degree: 100%
-
+source-wordcount: '290'
+ht-degree: 95%
 ---
-
 # SSL 인증서 추가
 
 Adobe Campaign [!UICONTROL 컨트롤 패널]을 사용하면 하위 도메인 보안을 위해 SSL 인증서를 추가할 수 있습니다.
@@ -47,7 +53,7 @@ SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다
 
 >[!VIDEO](https://video.tv.adobe.com/v/36126?captions=kor&learn=on){transcript=true}
 
-*인증서 서명 요청 생성(02:36분)*
+*인증서 서명 요청 생성(02:36)*
 
 >[!NOTE]
 >
@@ -74,6 +80,6 @@ SSL 인증서를 획득한 다음에는 보안을 설정할 하위 도메인에 
 
 >[!VIDEO](https://video.tv.adobe.com/v/36125?captions=kor&learn=on){transcript=true}
 
-*SSL 인증서 설치(01:25분)*
+*SSL 인증서 설치(01:25)*
 
 
